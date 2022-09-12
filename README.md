@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @J4ckFr05t AKA Jibin George
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m a Cybersecurity Enthusiast
 - 📫 You can reach me through my website, gmail
 
 <!---
